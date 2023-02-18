@@ -8,7 +8,7 @@
  * @base2: 2nd base
  * @height1: 1st height
  * @height2: 2nd height
- * Description: calls max_tri_are()
+ * Description: calls max_tri_area()
  * Return: 0
  */
 
