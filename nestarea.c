@@ -16,7 +16,7 @@ float max_tri_area(float base1, float height1, float base2, float height2);
 
 int main(void)
 {
-	max_tri_area(10, 20, 30, 40);
+	max_tri_area(5, 10, 15, 20);
 	return (0);
 }
 /**
